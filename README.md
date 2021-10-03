@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuimichelle
-- 👀 I’m interested in Data Analytics and Data Science
+<!--- 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Python for data analysis
-<!--- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
 
 <!---
